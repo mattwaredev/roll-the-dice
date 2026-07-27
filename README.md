@@ -1,5 +1,5 @@
 # Roll the Dice
-#### This repository includes Python code that is simulating the six-sided dice. Player tracking and the announcement of the winner of each game and the option to choose how many sides (numbers) the dice will have will be available soon.
+#### This repository includes Python script that is simulating the six-sided dice. Player tracking and the announcement of the winner of each game and the option to choose how many sides (numbers) the dice will have will be available soon.
 
 ***
 
