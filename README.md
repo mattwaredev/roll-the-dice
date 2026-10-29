@@ -2,9 +2,7 @@
 #### This repository includes Python script that is simulating the six-sided dice. Player tracking and the announcement of the winner of each game and the option to choose how many sides (numbers) the dice will have will be available soon.
 
 #### *Note: This script is currently under development and will be available to use soon.*
-
 ***
-
 ### GUI interface preview:
 
 On the `Home page` you can see the window with one number. This number is the number on the dice. Also you can see two buttons. The first button "Roll the Dice" is to change the number above. The second button "Game Over" is to end the game. The app will ask you who won. You have to enter the name of the person who won. Then you have to press "OK". After this there will be a pop-up dialog that tell you the congratulation to winner.
@@ -24,7 +22,6 @@ There is a video preview of the app
 <img width="367" height="547" alt="Python" src="https://github.com/user-attachments/assets/8653339c-720f-4cc3-b4ff-c03d186e2189" />
 
 ***
-
 ### Top 5 interesting things in the Source Code:
 
 #### 1. Aliasing When Importing Modules
