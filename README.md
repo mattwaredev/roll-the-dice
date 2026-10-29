@@ -5,19 +5,19 @@
 ***
 ### GUI interface preview:
 
-On the `Home page` you can see the window with one number. This number is the number on the dice. Also you can see two buttons. The first button "Roll the Dice" is to change the number above. The second button "Game Over" is to end the game. The app will ask you who won. You have to enter the name of the person who won. Then you have to press "OK". After this there will be a pop-up dialog that tell you the congratulation to winner.
+On the `Home page` you can see the window with one number. This number is the number on the dice. Also you can see two buttons. The first button "Roll the Dice" is to change the number above. The second button "Game Over" is to end the game. The app will ask you who won. You have to enter the name of the person who won. Then you have to press "OK". After this there will be a pop-up dialog that tell you the congratulation to winner:
 
 <img width="179" height="271" alt="Screenshot 2026-07-06 at 15 00 07" src="https://github.com/user-attachments/assets/f163daaf-8e88-4a26-bc7f-d7dcbad7a2ce" />
 
-This is the pop-up dialog using the `askstring` command to ask you who is the winner of the game.
+This is the pop-up dialog using the `askstring` command to ask you who is the winner of the game:
 
 <img width="179" height="271" alt="Screenshot 2026-07-06 at 15 00 35" src="https://github.com/user-attachments/assets/bae2c31d-2e32-41d4-a4f8-1af2f234ffec" />
 
-This is the pop-up dialog using `showinfo` command to tell you the congratulation to winner.
+This is the pop-up dialog using `showinfo` command to tell you the congratulation to winner:
 
 <img width="179" height="271" alt="Screenshot 2026-07-06 at 15 01 30" src="https://github.com/user-attachments/assets/f0c6f849-8eba-4887-aa00-d2b68beb5e9a" />
 
-There is a video preview of the app
+There is a video preview of the app:
 
 <img width="367" height="547" alt="Python" src="https://github.com/user-attachments/assets/8653339c-720f-4cc3-b4ff-c03d186e2189" />
 
