@@ -22,7 +22,7 @@ There is a video preview of the app:
 <img width="367" height="547" alt="Python" src="https://github.com/user-attachments/assets/8653339c-720f-4cc3-b4ff-c03d186e2189" />
 
 ***
-### Top 5 interesting things in the Source Code:
+### Top 5 interesting details in the Source Code:
 
 #### 1. Aliasing When Importing Modules
 The code uses so-called aliases (shortcuts) for imported modules and their parts, specifically `tk`, `sd`, and `mb`. This makes it easier for the programmer and shortens the subsequent calls to functions and methods from the `tkinter` library throughout the code.
