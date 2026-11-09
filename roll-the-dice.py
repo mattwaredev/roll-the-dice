@@ -53,14 +53,14 @@ def numbers_settings():
     settings_window.grid_columnconfigure(0, weight=1)
     settings_window.grid_columnconfigure(1, weight=1)
 
-    tk.Label(settings_window, text="Maximum").grid(
+    minimum_entry.grid(row=fields_row + 1, column=0, padx=8, pady=2)
+    tk.Label(settings_window, text="Minimum").grid(
         row=fields_row, column=0, padx=8, pady=(16, 2)
     )
-    maximum_entry.grid(row=fields_row + 1, column=0, padx=8, pady=2)
-    tk.Label(settings_window, text="Minimum").grid(
+    tk.Label(settings_window, text="Maximum").grid(
         row=fields_row, column=1, padx=8, pady=(16, 2)
     )
-    minimum_entry.grid(row=fields_row + 1, column=1, padx=8, pady=2)
+    maximum_entry.grid(row=fields_row + 1, column=1, padx=8, pady=2)
 
     def apply_range():
         try:
