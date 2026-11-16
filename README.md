@@ -4,11 +4,11 @@
 ***
 ### GUI interface preview:
 
-On the home page, there is a large field displaying a number. This number is the result of the most recent dice roll. To the right of this field is a smaller field that displays the last 5 rolls. Click the `Roll the Dice` button to roll again. The `Numbers settings` button opens a separate window where you can set the range of numbers to be rolled:
+On the home page, there is a large field displaying a number. This number is the result of the most recent dice roll. To the right of this field is a smaller field that displays the last 5 rolls. Click the `Roll the Dice` button to roll again. The `Numbers settings` button opens a separate window where you can set the range of numbers to be rolled.:
 
 <img width="481" height="318" alt="home" src="https://github.com/user-attachments/assets/c221f502-8427-439e-9bb1-54039722e9a2" />
 
-When you click the `Numbers settings` button, this window opens:
+When you click the `Numbers settings` button, this window opens.:
 
 <img width="472" height="474" alt="numbers" src="https://github.com/user-attachments/assets/c89254af-1a51-4d7b-8518-78f71d115933" />
 
@@ -16,7 +16,7 @@ When you click the `Numbers settings` button, this window opens:
 ### Top 5 interesting details in the Source Code:
 
 #### 1. The dice range is configurable
-Every roll uses the current minimum and maximum, so the app can simulate more than a standard six-sided die.
+Every roll uses the current minimum and maximum, so the app can simulate more than a standard six-sided dice.
 
 ```python
 minimum_number = 1
